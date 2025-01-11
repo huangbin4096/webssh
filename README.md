@@ -1,8 +1,10 @@
-# implement a webssh 
-# frontend: react xterm  
-# backend:  python fastapi paramiko
-
-# supprt multi session and history
+# webssh  
+> supprt multi session and history
+>
+> frontend: react xterm  
+>
+> backend:  python fastapi paramiko
+ 
 
 
 
